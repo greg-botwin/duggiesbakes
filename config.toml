@@ -2,7 +2,7 @@ baseurl = "https://duggiesbakes.com/"
 languageCode = "en-us"
 title = "Duggies Bakes"
 theme = "hugo-creative-portfolio-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-124320483-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
